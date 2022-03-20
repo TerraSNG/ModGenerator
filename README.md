@@ -9,7 +9,7 @@
   - Установите Python 3.8 [Скачать](https://www.python.org/downloads/release/python-38)
   - Откроется установщик и нажмите на кнопку: `add python to PATH`
   - Скачайте архив Torpeda <a href="https://github.com/TerraSNG/ModGenerator/archive/refs/heads/main.zip" target="blank">Скачать</a>
-  - Откройте cmd или PowerShell с Torped(a)
+  - Откройте cmd или PowerShell с ModGenerator
   - Введите команду: `python3 ModGenerator.py `
 
 <h2> Linux</h2>
