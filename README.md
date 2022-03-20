@@ -10,9 +10,9 @@
   - Откроется установщик и нажмите на кнопку: `add python to PATH`
   - Скачайте архив Torpeda <a href="https://github.com/TerraSNG/ModGenerator/archive/refs/heads/main.zip" target="blank">Скачать</a>
   - Откройте cmd или PowerShell с Torped(a)
-  - Введите команду: `python3 ModGenerator.py 
+  - Введите команду: `python3 ModGenerator.py `
 
-<h2> 🐧 Linux</h2>
+<h2> Linux</h2>
 
 ```
 sudo apt update
@@ -22,7 +22,7 @@ cd ModGenerator
 python3 ModGenerator.py
 ```
 
-<h2> 🐧 Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
+<h2> Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
 
 ```
 apt update
