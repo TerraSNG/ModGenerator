@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# ModGenerator
 
-You can use the [editor on GitHub](https://github.com/TerraSNG/ModGenerator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+С помощью данного скрипта вы сможете сделать скелет мода. Это отлично экономит время при создани мода!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 📥 Установка
 
-### Markdown
+<h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - Установите Python 3.8 [Скачать](https://www.python.org/downloads/release/python-38)
+  - Откроется установщик и нажмите на кнопку: `add python to PATH`
+  - Скачайте архив Torpeda <a href="https://github.com/TerraSNG/ModGenerator/archive/refs/heads/main.zip" target="blank">Скачать</a>
+  - Откройте cmd или PowerShell с ModGenerator
+  - Введите команду: `python3 ModGenerator.py `
 
-```markdown
-Syntax highlighted code block
+<h2> Linux</h2>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+sudo apt update
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/TerraSNG/ModGenerator
+cd ModGenerator
+python3 ModGenerator.py
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h2> Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TerraSNG/ModGenerator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+apt update
+apt upgrade
+git clone  https://github.com/TerraSNG/ModGenerator
+cd ModGenerator
+python3 ModGenerator.py
+```
