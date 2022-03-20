@@ -14,5 +14,15 @@ print(colored('''
                                                                                                          
                                                                                                          
                                                                                                                               
-                                                    made by Terraria-SNG with <3                                                                               
+                                                    сделано в Terraria-SNG с <3                                                                               
 ''','magenta'))
+
+def coderun():
+    z = 0
+    x = 0
+    c = 0
+    v = 0
+    erz = None
+    erx = None
+    erc = None
+    erv = None
